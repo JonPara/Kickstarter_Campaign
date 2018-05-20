@@ -7,4 +7,4 @@ Over two billion dollars have been raised using the massively successful crowdfu
 
 Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. I have analyzed a database of four thousand past projects in order to uncover any hidden trends.
 
-![Kickstarter Table](FullTable.PNG)
+![Kickstarter Table](SuccessfulCampaigns.PNG)
